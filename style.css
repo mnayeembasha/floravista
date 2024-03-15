@@ -31,7 +31,7 @@
   font-family: Montserrat;
   margin-left: 3rem;
   /* color:#E11299; */
-  color: #a0153e;
+  /* color: #a0153e; */
 }
 /*Styling Main content*/
 
@@ -43,6 +43,9 @@
 .tag {
   color: rgb(226, 121, 138);
   font-weight: 900;
+}
+#pink {
+  color: rgb(226, 121, 138);
 }
 .welcome {
   width: 100%;
@@ -97,7 +100,7 @@
   .navbar {
     min-height: 70px;
   }
-  .navbar-brand{
+  .navbar-brand {
     margin-left: 0;
   }
 }
@@ -116,7 +119,7 @@
   .products .container {
     width: 90%;
   }
-  .navbar-brand{
+  .navbar-brand {
     margin-left: 0;
   }
 }
