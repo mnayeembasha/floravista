@@ -1,2 +1,3 @@
-# floravista
-FloraVista: Your go-to flower destination! Explore a wide selection of fresh blooms for any occasion. Quality, beauty, and convenience delivered to your doorstep.
+# FloraVista: Your Floral Paradise
+
+Welcome to FloraVista, your one-stop destination for all things floral! Whether you're celebrating a special occasion or simply want to brighten someone's day, FloraVista offers a delightful selection of fresh and beautiful flowers. Explore our curated collection and bring the beauty of nature into your life. 
